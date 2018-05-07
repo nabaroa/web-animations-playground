@@ -2,7 +2,7 @@
 
 ### WIP
 
-![Cover image](https://raw.githubusercontent.com/nabaroa/css-grid-layout/master/assets/cover.png)
+<!-- ![Cover image](https://raw.githubusercontent.com/nabaroa/css-grid-layout/master/assets/cover.png) -->
 
 
 ## License
