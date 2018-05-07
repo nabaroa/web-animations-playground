@@ -1,0 +1,23 @@
+.example-grid{
+  position: relative;
+  >*{
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+
+}
+.example-grid__link{
+  display: block;
+  text-decoration: none;
+  padding: calc(4 * var(--spacer));
+
+}
+.example-grid__image{
+margin-top: calc(2 * var(--spacer));
+width: 100%;
+stroke:var(--pale);
+}

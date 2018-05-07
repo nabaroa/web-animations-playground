@@ -1,0 +1,36 @@
+/*proof of concept*/
+
+.nak-grid{
+  display: grid;
+
+}
+.nak-grid-template-columns{
+
+
+}
+.nak-grid-1{
+  grid-template-columns: 1;
+
+}
+.nak-grid-2{
+  grid-template-columns: 50% 50%;
+}
+.nak-grid-4{
+  grid-template-columns: repeat(4, 1fr);
+}
+.nak-grid-template-rows{
+  /* grid-template-rows:100vh 100vh 1fr 100vh; */
+
+}
+.nak-grid-template-areas{
+
+}
+.nak-grip-column-gap{
+
+}
+.nak-grip-row-gap{
+
+}
+.nakgrid-gap{
+
+}

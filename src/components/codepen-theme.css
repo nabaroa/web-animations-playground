@@ -1,0 +1,20 @@
+.embed-nav {
+  position: absolute;
+  bottom: 0px;
+  padding-left: 0;
+  box-shadow: none;
+  background: white;
+}
+.embed-nav ul {
+  margin-top: 10px;
+}
+.embed-nav ul li.results a {
+  margin-left: 0;
+}
+.embed-nav ul a {
+  border-radius: 0 !important;
+}
+.embed-nav ul a:active {
+  box-shadow: none !important;
+  background: #f4b407 !important;
+}
